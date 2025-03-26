@@ -43,7 +43,7 @@ The hardware connections are as follows:
 
 *Circuit Diagram ![circuit_image](https://github.com/user-attachments/assets/a6db366c-1033-4a98-a719-4bcec924ef48)
 *
-Circuit diagram ![link] (https://app.cirkitdesigner.com/project/a288e986-22ab-4bde-b39b-221b9fdbabf5)
+Circuit diagram link: (https://app.cirkitdesigner.com/project/a288e986-22ab-4bde-b39b-221b9fdbabf5)
 
 ## Code Description
 
